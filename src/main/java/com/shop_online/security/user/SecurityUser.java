@@ -3,7 +3,7 @@ package com.shop_online.security.user;
 import org.springframework.security.core.context.SecurityContextHolder;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 public class SecurityUser {
     /**

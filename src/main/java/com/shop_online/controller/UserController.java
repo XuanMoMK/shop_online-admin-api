@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 前端控制器
  * </p>
  *
- * @author ycshang
+ * @author sunyu
  * @since 2023-11-28
  */
 @Api(tags = "用户管理")

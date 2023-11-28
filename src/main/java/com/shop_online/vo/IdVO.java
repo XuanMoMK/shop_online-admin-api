@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * 当参数只有id时
  *
- * @Author ycshang
+ * @Author sunyu
  */
 @Data
 @Schema(description = "ID参数")

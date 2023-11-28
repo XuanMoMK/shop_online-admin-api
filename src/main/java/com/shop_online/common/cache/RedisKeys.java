@@ -1,7 +1,7 @@
 package com.shop_online.common.cache;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 public class RedisKeys {
 

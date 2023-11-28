@@ -13,7 +13,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
 /**
- * @author ycshang
+ * @author sunyu
  * @date 2023年5月17日 11点25分
  * Description: Redis配置
  */

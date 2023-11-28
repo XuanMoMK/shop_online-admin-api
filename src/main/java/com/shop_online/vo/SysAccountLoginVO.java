@@ -4,7 +4,7 @@ import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 @Data
 @Schema(description = "账号登录")

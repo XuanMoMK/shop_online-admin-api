@@ -7,7 +7,7 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 @Data
 public class Query {

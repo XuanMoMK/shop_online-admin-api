@@ -11,7 +11,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 @Data
 public class ManagerDetail implements UserDetails {

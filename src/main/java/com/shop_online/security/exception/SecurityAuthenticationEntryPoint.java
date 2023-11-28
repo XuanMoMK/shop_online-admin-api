@@ -13,7 +13,7 @@ import org.springframework.security.web.AuthenticationEntryPoint;
 
 import java.io.IOException;
 /**
- * @author ycshang
+ * @author sunyu
  */
 public class SecurityAuthenticationEntryPoint implements AuthenticationEntryPoint {
 

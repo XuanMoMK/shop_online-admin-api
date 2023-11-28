@@ -12,7 +12,7 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 @Data
 @Schema(description = "管理员")

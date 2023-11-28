@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
- * @Author ycshang
+ * @Author sunyu
  */
 @Data
 @Schema(description = "图片url上传地址")

@@ -6,7 +6,7 @@ import org.springframework.security.crypto.factory.PasswordEncoderFactories;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 @Configuration
 public class PasswordConfig {

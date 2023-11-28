@@ -12,7 +12,7 @@ import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 @Component
 public class RedisCache {

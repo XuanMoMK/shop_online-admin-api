@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 
 
 /**
- * @author ycshang
+ * @author sunyu
  */
 public class TokenUtils {
 
